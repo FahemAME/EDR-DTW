@@ -1,3 +1,6 @@
+
+print("Hello Termux")
+
 import pandas as pd
 import numpy as np
 from scipy.fftpack import fft
